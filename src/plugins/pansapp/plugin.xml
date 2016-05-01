@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.pansapp.plugin.PansappServicePlugin</class>
+    <name>PANSAPP API</name>
+    <description>Allows chat over a RESTful API.</description>
+    <author>Pansapp</author>
+    <version>1</version>
+    <date>04/23/2016</date>
+    <minServerVersion>4.0.0</minServerVersion>    
+
+</plugin>
